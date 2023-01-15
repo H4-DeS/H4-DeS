@@ -1,4 +1,7 @@
-### Hi there 👋
+### H4-DeS here... Let's code! 
+💻 Embedded programmer adventuring on the Front-End Universe... 💻
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fgithub.com%2FH4-Des&label=visitors&countColor=%23ba88c8&style=plastic)
 
 <!--
 **H4-DeS/H4-DeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
