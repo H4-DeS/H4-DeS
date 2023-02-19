@@ -7,6 +7,9 @@
 
 <img alt="HTML5" heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>  <img heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>   <img heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
 
+<img heigth= "30" width= "40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png"></img>  <img heigth= "30" width= "40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/cplusplus.png"></img>
+
+
 <!--
 **H4-DeS/H4-DeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
