@@ -2,7 +2,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fgithub.com%2FH4-Des&label=visitors&countColor=%23ba88c8&style=plastic)
 
 
-💻 Embedded programmer adventuring on the Front-End Universe... 💻
+💻 Enginneer, WebDeveloper, IoT, Linux enthusiast, CyberSec 💻
 
 
 <img alt="HTML5" heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>  <img heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>   <img heigth= "30" width= "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
